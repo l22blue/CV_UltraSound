@@ -5,3 +5,4 @@ pillow
 opencv-python
 torch
 torchvision
+openpyxl

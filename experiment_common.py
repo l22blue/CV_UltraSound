@@ -30,7 +30,7 @@ from torchvision.transforms import InterpolationMode
 from torchvision.transforms import v2 as T
 
 
-ROOT_DEFAULT = r"c:\Univ\학부 연구생\컴퓨터 비전 스터디\prof_seo_jg_USG_hypoE (아산병원 서준교 교수님 초음파)"
+ROOT_DEFAULT = "."
 
 
 @dataclass(frozen=True)
